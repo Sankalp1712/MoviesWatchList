@@ -1,0 +1,13 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "Spiderman",
+      "rating": "10",
+      "about": "This is movie  about spider man",
+      "year": "2022",
+      "url": ""
+    }
+  ],
+  "watchlist": []
+}

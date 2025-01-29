@@ -1,0 +1,13 @@
+.movieCard{
+    height:300px;
+    width:100%;
+    position:relative;
+}
+.movieBtn{
+    position:absolute;
+    bottom:0
+    
+}
+.nav-link:hover{
+    text-decoration: underline;
+}

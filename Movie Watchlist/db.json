@@ -1,0 +1,94 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "Spiderman",
+      "rating": "10",
+      "about": "This is movie  about spider man",
+      "year": "2022",
+      "url": "https://www.thepopverse.com/_next/image?url=https%3A%2F%2Fmedia.thepopverse.com%2Fmedia%2F8-deaths-of-spider-man-the-amazing-spider-man-61-marvel-comics-rqrhycpn3jeehied1flpkuk1aa.jpg&w=1280&q=75"
+    },
+    {
+      "id": "2",
+      "name": "Batman",
+      "rating": "9",
+      "about": "This movie is about batman\n",
+      "year": "2022",
+      "url": "https://www.cartoonbucket.com/wp-content/uploads/2016/07/Image-Of-Batman-1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Daredevil",
+      "rating": "9.4",
+      "about": "Movie about Daredevil",
+      "year": "2019",
+      "url": "https://eloutput.com/wp-content/uploads/2022/03/daredevil-personaje.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Captain America",
+      "rating": "9.0",
+      "about": "Movie about Captain America.",
+      "year": "2018",
+      "url": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fmovie%2F180%2Fbackgrounds%2F65401b54d5af4.jpg&w=3840&q=75"
+    },
+    {
+      "id": "5",
+      "name": "Thor",
+      "rating": "8.8",
+      "about": "Movie about Thor.",
+      "year": "2022",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiD7rNiRQrhFE15muP2m28fclYuKbsSW3kivj0-7cpRL7mu1WC9F_7g05JD43TZB2GByIQGe4pduvSRr0zWLD3qq8pLRTiY1KT8AwOfFwcasZRLleXalQdZQYUlYU9KUoXjf4TqxOwcSY/s1600/Chris-Hemsworth-Thor-Art-by-PC-Designs.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Black Panther",
+      "rating": "9.3",
+      "about": "Movie about Black Panther.",
+      "year": "2019",
+      "url": "https://wallpapers.com/images/featured/black-panther-pictures-oneyhhuiu1944x1u.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Iron Man",
+      "rating": "8.7",
+      "about": "Movie about Iron Man.",
+      "year": "2017",
+      "url": "https://img.mensxp.com/media/content/2020/Sep/header-credit-Marvel-Studios_5f741d77c06a0.jpeg?w=450&h=210&cc=1"
+    },
+    {
+      "id": "8",
+      "name": "Wonder Woman",
+      "rating": "8.9",
+      "about": "Movie about Wonder Woman.",
+      "year": "2020",
+      "url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/08/WW3.jpg"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "3",
+      "name": "Daredevil",
+      "rating": "9.4",
+      "about": "Movie about Daredevil",
+      "year": "2019",
+      "url": "https://eloutput.com/wp-content/uploads/2022/03/daredevil-personaje.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Black Panther",
+      "rating": "9.3",
+      "about": "Movie about Black Panther.",
+      "year": "2019",
+      "url": "https://wallpapers.com/images/featured/black-panther-pictures-oneyhhuiu1944x1u.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Spiderman",
+      "rating": "10",
+      "about": "This is movie  about spider man",
+      "year": "2022",
+      "url": "https://www.thepopverse.com/_next/image?url=https%3A%2F%2Fmedia.thepopverse.com%2Fmedia%2F8-deaths-of-spider-man-the-amazing-spider-man-61-marvel-comics-rqrhycpn3jeehied1flpkuk1aa.jpg&w=1280&q=75"
+    }
+  ]
+}
